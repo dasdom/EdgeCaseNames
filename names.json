@@ -1,58 +1,51 @@
 [
   {
-    "first": "Joe",
-    "last": "True",
+    "name": "True",
     "note": "keyword"
   },
   {
-    "first": "joe",
-    "last": "true",
+    "name": "true",
     "note": "keyword"
   },
   {
-    "first": "Joe",
-    "last": "False",
+    "name": "False",
     "note": "keyword"
   },
   {
-    "first": "joe",
-    "last": "false",
+    "name": "false",
     "note": "keyword"
   },
   {
-    "first": "Joe",
-    "last": "Null",
+    "name": "Null",
     "note": "keyword"
   },
   {
-    "first": "joe",
-    "last": "null",
+    "name": "null",
     "note": "keyword"
   },
   {
-    "first": "Joe",
-    "last": "Nil",
+    "name": "Nil",
     "note": "keyword"
   },
   {
-    "first": "joe",
-    "last": "nil",
+    "name": "nil",
     "note": "keyword"
   },
   {
-    "first": "Jo",
-    "last": "W",
+    "name": "W",
     "note": "length"
   },
   {
-    "first": "Joe",
-    "last": "Somepeoplehaveveryverylonglastnames-Evenwithdashes",
+    "name": "Somepeoplehaveveryverylonglastnames-Evenwithdashes",
     "note": "length"
   },
   {
-    "first": "Joe",
-    "last": "Àáâäæãåāôöòóœøōõûüùúūîïíīįìèéêëēėęłßśšçćčžźż",
-    "note": "length"
+    "name": "Àáâäæãåāôöòóœøōõûüùúūîïíīįìèéêëēėęłßśšçćčžźż",
+    "note": "special characters"
+  },
+  {
+    "name": "O’Brien",
+    "note": "special characters"
   }
 ]
   

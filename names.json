@@ -2,22 +2,57 @@
   {
     "first": "Joe",
     "last": "True",
-    "note": "Keyword"
+    "note": "keyword"
+  },
+  {
+    "first": "joe",
+    "last": "true",
+    "note": "keyword"
+  },
+  {
+    "first": "Joe",
+    "last": "False",
+    "note": "keyword"
+  },
+  {
+    "first": "joe",
+    "last": "false",
+    "note": "keyword"
   },
   {
     "first": "Joe",
     "last": "Null",
-    "note": "Keyword"
+    "note": "keyword"
+  },
+  {
+    "first": "joe",
+    "last": "null",
+    "note": "keyword"
   },
   {
     "first": "Joe",
     "last": "Nil",
-    "note": "Keyword"
+    "note": "keyword"
+  },
+  {
+    "first": "joe",
+    "last": "nil",
+    "note": "keyword"
+  },
+  {
+    "first": "Jo",
+    "last": "W",
+    "note": "length"
   },
   {
     "first": "Joe",
-    "last": "Wu",
-    "note": "Length"
+    "last": "Somepeoplehaveveryverylonglastnames-Evenwithdashes",
+    "note": "length"
+  },
+  {
+    "first": "Joe",
+    "last": "Àáâäæãåāôöòóœøōõûüùúūîïíīįìèéêëēėęłßśšçćčžźż",
+    "note": "length"
   }
 ]
   
